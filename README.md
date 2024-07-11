@@ -31,9 +31,9 @@ Visit http://localhost:3000 in your browser to see the app in action.
 - Chakra UI: A simple, modular, and accessible component library for React.
 
 ## Future Enhancements
-User Authentication: Allow users to create accounts and save their favorite games.
-Improved Search Algorithms: Enhance search functionality with filters and sorting options.
-Community Features: Add forums and user reviews to foster a community around gaming.
+- User Authentication: Allow users to create accounts and save their favorite games.
+- Improved Search Algorithms: Enhance search functionality with filters and sorting options.
+- Community Features: Add forums and user reviews to foster a community around gaming.
 
 ## Contributing
 We welcome contributions! Feel free to submit issues and pull requests to help improve the project.
