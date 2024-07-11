@@ -16,10 +16,10 @@ Search Functionality: Easily find your favorite games using the robust search fe
 git clone https://github.com/yourusername/react-rawg-clone.git
 ``
 2. Install dependencies:
-``
+```
 cd react-rawg-clone
 npm install
-``
+```
 3. Run the app:
 ``
 npm start
