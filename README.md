@@ -6,9 +6,9 @@
 The React RAWG Clone is designed to mimic the functionality and aesthetic of the RAWG database, but with our own unique twist. Leveraging the power of ReactJS for dynamic content rendering and Chakra UI for a clean, responsive design, this site offers a modern, intuitive interface for users to explore a vast array of video games.
 
 ## Features
-Dynamic Game Listings: Browse through a comprehensive list of video games with real-time data fetching.
-Responsive Design: Enjoy a consistent user experience across all devices, thanks to Chakra UI.
-Search Functionality: Easily find your favorite games using the robust search feature.
+- Dynamic Game Listings: Browse through a comprehensive list of video games with real-time data fetching.
+- Responsive Design: Enjoy a consistent user experience across all devices, thanks to Chakra UI.
+- Search Functionality: Easily find your favorite games using the robust search feature.
 
 ## How to Use
 1. Clone the repository:
