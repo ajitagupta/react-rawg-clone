@@ -1,6 +1,6 @@
 # RAWG Clone in ReactJS using Chakra UI
 
-![Static Badge](https://img.shields.io/badge/RAWG%20Clone-Project-blue) ![Static Badge](https://img.shields.io/badge/ReactJS-Learning%20React-green) ![Static Badge](https://img.shields.io/badge/Chakra%20UI-Learning%20React-green)
+![Static Badge](https://img.shields.io/badge/RAWG%20Clone-Project-blue) ![Static Badge](https://img.shields.io/badge/ReactJS-Learning%20React-green) ![Static Badge](https://img.shields.io/badge/Chakra%20UI-Learning%20React-green) ![Static Badge](https://img.shields.io/badge/Responsive%20Design-Learning%20React-green)
 
 ## Overview
 The React RAWG Clone is designed to mimic the functionality and aesthetic of the RAWG database, but with our own unique twist. Leveraging the power of ReactJS for dynamic content rendering and Chakra UI for a clean, responsive design, this site offers a modern, intuitive interface for users to explore a vast array of video games.
